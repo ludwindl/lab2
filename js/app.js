@@ -1,5 +1,5 @@
 'use strict';
-/*alert('Let\'s play a little trivia about Ludwin. Can you guess the right answers?');
+alert('Let\'s play a little trivia about Ludwin. Can you guess the right answers?');
 
 //question 1
 var answer1 = prompt('Does Ludwin likes 80\'s music?. Y or N?');
@@ -54,7 +54,7 @@ if (answer5 === 'Y') {
 }
 else {
   alert('Actually, he is obsessed about sourdough');
-}*/
+}
 var count = prompt('How old is Ludwin?');
 for (var i = 0; i < 3; i++){
   if(count === '37'){
